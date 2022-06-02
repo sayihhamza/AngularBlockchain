@@ -3,9 +3,6 @@
 
 Built on top of [SavjeeCoin](https://github.com/Savjee/SavjeeCoin) (simply Blockchain implementation in Javascript).
 
-## 👀 Live demo
-**[Check it out here.](https://savjee.github.io/savjeecoin-frontend/)** You can create transactions, mine blocks and explore your own blockchain.
-
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Get a copy of the SavjeeCoin front-end running on your local machine (for playing around, testing or development).
 
